@@ -1,9 +1,9 @@
-#**General stuff**
+# **General stuff**
 * npm or yarn
 * HTML, CSS, JS
 * Basics of functional programming
 
-#**JS/ES6**
+# **JS/ES6**
 * Modules (import/export)
 * let and const
 * Arrow functions
@@ -14,14 +14,14 @@
 * Generators
 * async/await
 
-#**React**
-##Basics
+# **React**
+## Basics
 * Lifecycle methods
 * Stateless functional components
 * Pure components
 * Container components
 
-##Advanced topics
+## Advanced topics
 * Look here: https://reactpatterns.com/
 * React Router v4
 * Context API (React 16.3)
@@ -30,8 +30,8 @@
 * Testing
 * React Dev Tools
 
-#**Redux**
-##Basics
+# **Redux**
+## Basics
 * Action
 * Action Creator
 * dispatch
@@ -41,7 +41,7 @@
 * connect()
 * mapStateToProps and mapDispatchToProps
 
-##Advanced topics
+## Advanced topics
 * Middleware
 * Ducks structure
 * Async actions
